@@ -47,5 +47,5 @@ for linha in tabela.index: #ele sabe que é linha devido a tabela.INDEX devido a
 
 
 #voltar para o inicio da tela - telca HOME ou 
-pyautogui.scroll # positivo ele sobe, negativo desce
+#pyautogui.scroll # positivo ele sobe, negativo desce
 #cadastrando um produto no primeiro campo, igual para os outros 
