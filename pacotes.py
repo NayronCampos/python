@@ -3,3 +3,5 @@
 #pip install openpyxl ipykernel nbformat plotly
 
 #pip install scikit-learn
+
+#pip install openai streamlit
